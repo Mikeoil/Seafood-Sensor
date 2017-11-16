@@ -6,8 +6,7 @@ share the broadest array of measurements to reflect sustainable or unsustainable
 or unhealthy fisheries. 
 
 These hardware requirements are shared Open Source for Arduino so that as many of these Seafood Sensors as possible 
-can be built and deployed globally, ultimately so that consistent inexpensive universal ocean condition monitoring results 
-in replenishment of seafood species worldwide. And our goal is to ensure that the data can be shared with seafood ratings centers, so we'll also be working on an interactive live website to share the data you save worldwide in a consistent format.
+can be built and deployed globally, ultimately resulting in consistent inexpensive universal ocean condition monitoring for replenishment of seafood species worldwide. And our goal is to ensure that the data can be shared with sustainable seafood ratings centers, so we'll also be working on an interactive website to upload data you save worldwide in a consistent format.
 
 Note: this combination of data points, hardware, and software is NOT yet tested, but as it becomes built out, coded, and tested, all info will be shared here. 
 
