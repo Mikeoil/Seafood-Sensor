@@ -1,7 +1,7 @@
 #Seafood-Sensor
 Open Source Arduino Ocean Condition Sensor Monitoring 
 
-Premise: Ken Ekstrom of MIT SeaGrant has confirmed that the following sensors, if correlated with seafood catch counts, 
+Premise: Ken Ekstrom of MIT SeaGrant has confirmed that the following sensor types, if correlated with seafood catch counts, 
 share the broadest array of measurements to reflect sustainable or unsustainable ocean conditions, to correlate with healthy 
 or unhealthy fisheries. 
 
@@ -43,6 +43,6 @@ http://sandboxelectronics.com/?post_type=product&p=1341 (100,000 ppm accuracy; e
 http://sandboxelectronics.com/?product=50000ppm-mh-z16-ndir-co2-sensor-with-i2cuart-5v3-3v-interface-for-arduinoraspeberry-pi-2 (50,000 ppm accuracy; easy calibration w/ fresh air every 6 months) $67.95
 http://sandboxelectronics.com/?product=mh-z16-ndir-co2-sensor-with-i2cuart-5v3-3v-interface-for-arduinoraspeberry-pi (10,000 ppm accuracy; easy calibration w/ fresh air every 6 months) $67.95 
 http://sandboxelectronics.com/?product=mg-811-co2-gas-sensor-module&gclid=COWTxKSzxNACFQxMDQodgMALqw $52.95 (uses chemicals & heat; not ideal)
-http://www.pro-oceanus.com/images/mini-pro-co2.pdf (not priced; might be proprietary; claim options avaiable) 
+http://www.pro-oceanus.com/images/mini-pro-co2.pdf (not priced; might be proprietary; claim options are avaiable) 
 
 
