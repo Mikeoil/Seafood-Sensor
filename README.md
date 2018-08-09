@@ -1,7 +1,7 @@
 #Seafood-Sensor
 Open Source Arduino Ocean Condition Sensor Monitoring 
 
-Premise: Ken Ekstrom of MIT SeaGrant has confirmed that the following sensor types, if correlated with seafood catch counts, 
+Premise: <a href="https://seagrant.mit.edu/cfer/cfernews/index.html" target="_blank"> Ken Ekstrom of MIT SeaGrant</a> has confirmed that the following sensor types, if correlated with seafood catch counts, 
 share the broadest array of measurements to reflect sustainable or unsustainable ocean conditions, to correlate with healthy 
 or unhealthy fisheries. 
 
